@@ -1,0 +1,9 @@
+{
+	"bots" : [
+		{
+			"name" : "Beginner bot",
+			"path" : "sample.js"
+		}
+	],
+	"colour" : "#ff00ff"
+}
