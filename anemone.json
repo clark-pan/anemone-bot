@@ -3,6 +3,10 @@
 		{
 			"name" : "Beginner bot",
 			"path" : "sample.js"
+		},
+		{
+			"name" : "Empty bot",
+			"path" : "empty.js"
 		}
 	],
 	"colour" : "#ff00ff"
