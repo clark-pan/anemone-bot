@@ -8,6 +8,5 @@
 			"name" : "Empty bot",
 			"path" : "empty.js"
 		}
-	],
-	"colour" : "#ff00ff"
+	]
 }
